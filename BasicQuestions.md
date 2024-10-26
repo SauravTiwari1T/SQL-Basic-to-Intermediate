@@ -7,5 +7,9 @@ It is stored in a specific format , often in tables with rows and columns , maki
 ### 2. Consistency :
 The data stored is consistent, meaning that the same types of data is stored in same way across the database.
 
+### 3.Integrity:
+Data integrity ensures that the data is accurate and reliable.
 
-@
+### 4. Scalability: 
+Databases can grow in size , handling more data without performance issue.
+
