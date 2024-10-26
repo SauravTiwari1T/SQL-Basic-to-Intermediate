@@ -34,11 +34,11 @@ Structured query language is a standardized programming language used to manage 
 
 # Key components of sql :
 1.Data query Language (DQL) : Used to query data from the databases.
-Example : SELECT
+Example : SELECT \n
 2. Data Manipulation language (DML) : Used to insert , update and delete data.
-3.  Data defination Language (DDL) :  Used to define or alter the structure of the database , such as creating altering , or dropping tables.
-4. Data control language (DCL): used to control access to the data , like granting and revoking permissions.
-5.Transaction control language (TCL) :Used to manage transaction in the database. 
+3.  Data defination Language (DDL) :  Used to define or alter the structure of the database , such as creating altering.  dropping tables. \n
+4. Data control language (DCL): used to control access to the data , like granting and revoking permissions.\n
+5.Transaction control language (TCL) :Used to manage transaction in the database. \n
 Commit (Saves all the changes)
-Rollback(undoes all chnages made in current transaction)
+Rollback(undoes all chnages made in current transaction)\n
 
